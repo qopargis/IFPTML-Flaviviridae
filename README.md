@@ -5,7 +5,7 @@ Authors:
 
 Yendrek Velasquez-Lopez, a,b ; Andrea Ruiz-Escudero, c; Sonia Arrasate,a and Humberto González-Díaz, a,d,e*
 
-Affiliations
+Affiliations:
 
 a) Department of Organic and Inorganic Chemistry, Faculty of Science and Technology, University of The Basque Country (UPV/EHU), P.O. Box 644, 48080, Bilbao (Spain)
 
